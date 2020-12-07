@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+body {
+    width: 100%;
+    background-color: whitesmoke;
+
+}
+h3{
+    color: rgba(212, 0, 0, 0.85);
+}
+
+header {
+    float: left;
+    color: whitesmoke;
+    font-family: 'Rock Salt', cursive;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+
+}
+
+a:visited {
+    color: red;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+* {
+    outline: none !important;
+}
+
+.navegacion {
+    display: block;
+    text-align: center;
+    background: black;
+    width: 100%;
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+}
+
+.centrarfotos {
+    text-align: center;
+
+}
+img{
+    margin: 10px;
+    padding: 20px;
+    width: 80%;
+}
+.linkatras{
+    width: 25%;
+    
+    color: black;
+    border: 3px solid black;
+    margin: 25px;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+    
+    
+}
+
